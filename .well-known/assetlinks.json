@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nuvizz.di.android",
+    "sha256_cert_fingerprints":
+    ["C4:68:7A:3E:0F:61:2F:39:E2:6F:F7:A1:5A:8E:A3:63:D8:5C:10:5C:CB:CB:68:ED:D2:02:E2:44:27:53:A8:6C"]
+  }
+}]
